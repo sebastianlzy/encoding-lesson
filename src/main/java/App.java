@@ -39,7 +39,7 @@ public class App {
          *  Decode (binary group in 8): 01000011 00110011 01010110 11000001 0000
          *  Binary to ASCII: C 3 V
          *
-         *  Last 4 bit is ignored as it truncates the padded bites and decode the
+         *  Last 4 bit is ignored as it truncates the padded bits and decode the
          *  first 32 bits
          *
          *  Lessons learnt
